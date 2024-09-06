@@ -1,0 +1,1 @@
+The images are ok on a mobile device when viewed in portrait. However, images appear too big in landscape mode.
